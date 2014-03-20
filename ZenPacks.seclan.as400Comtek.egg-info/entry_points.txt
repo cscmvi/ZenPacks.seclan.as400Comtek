@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.seclan.as400Comtek = ZenPacks.seclan.as400Comtek
+
